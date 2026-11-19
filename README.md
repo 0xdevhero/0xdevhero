@@ -13,7 +13,7 @@
 
 [![HyperCraft Suite](https://img.shields.io/badge/HyperCraft-500%2B_Skills_Suite-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/0xdevhero/hypercraft-skills)
 [![GitHub Followers](https://img.shields.io/github/followers/0xdevhero?label=Followers&style=for-the-badge&color=blue)](https://github.com/0xdevhero)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-hrhero-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hrhero)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/MdHussainurRahmanHero)
 [![Sponsor](https://img.shields.io/badge/Sponsor-0xdevhero-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/0xdevhero)
 
 </div>
@@ -63,7 +63,7 @@
 
 If my open-source tools, agent skills, or engineering distributions save you time or help your team build faster, you can support continuous development:
 
-- ☕ **Buy Me a Coffee:** [buymeacoffee.com/hrhero](https://www.buymeacoffee.com/hrhero)
+- 💖 **Patreon:** [patreon.com/c/MdHussainurRahmanHero](https://www.patreon.com/c/MdHussainurRahmanHero)
 - 💖 **GitHub Sponsors:** [github.com/sponsors/0xdevhero](https://github.com/sponsors/0xdevhero)
 - 🤝 **Collaborations & Architecture Inquiries:** Reach out via GitHub Discussions or Issues.
 
