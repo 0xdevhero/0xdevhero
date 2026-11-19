@@ -1,0 +1,7 @@
+# GitHub Sponsors & Community Funding Configuration
+# Enables the official GitHub "Sponsor" button on https://github.com/0xdevhero/0xdevhero
+
+github: [0xdevhero]
+patreon: MdHussainurRahmanHero
+custom:
+  - https://www.patreon.com/c/MdHussainurRahmanHero
